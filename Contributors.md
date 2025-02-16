@@ -1,5 +1,6 @@
 # Contributors
  [Z-Dev-Coder](https://github.com/Z-Dev-Coder) 
+ [Z-Dev-Coder](https://github.com/Z-Dev-Coder) 
 - Anders Lorén Hello World!
 - [Ernest Whitehead](https://github.com/cliffy987) It's-a-me!
 - [Ethan Narkiewicz](https://github.com/Enarkiewicz2) CAIS240
@@ -715,6 +716,7 @@ Sugan
 - [mickaelk98](https://github.com/mickaelk98/)
 - [ashrey369](https://github.com/ashrey369)
 - [Dani Matuko](https://github.com/danimatuko)
+- [Dani Matuko](https://github.com/danimatuko)
 - [Rajneesh](https://github.com/iamcreed/): Thanks for My first contribution 👍.
 - [Prashanti](https://github.com/prxshxnti)
 - [DeathScytheZ](https://github.com/DeathScytheZ)
@@ -733,7 +735,9 @@ Sugan
 - [ufunc](https://github.com/ufunc)
 - [Johaan K Jis](https://github.com/johaankjis)
 - [Harsh Rana](https://github.com/HarshRana-Simform)
+- [Harsh Rana](https://github.com/HarshRana-Simform)
 - [Jonathan Eudja](https://github.com/jjthisguy)
+- [Aditya kr. mishra](https://github.com/adityakrmishra)
 - [Aditya kr. mishra](https://github.com/adityakrmishra)
 - [Chong Liu](https://github.com/lc87624)
 - [Niharika Saha] (https://github.com/Niharika-Saha)
@@ -758,6 +762,7 @@ Sugan
 - [Trevor Kibuba](https://github.com/kibuba-njihia)
 - [Joshua Sunday](https://github.com/joshuasunnexy)
 - [SumitThakur](https://github.com/SumitThakur1600)
+- [Aditya kr. mishra](https://github.com/adityakrmishra)
 - [Aditya](https://github.com/aditya-7562) :: 07/01/2025
 - [SaniyaSayyed](https://github.com/saniya-154)
 - [ValentinaCorreaG](https://github.com/ValentinaCorreaG) Buenasss
@@ -3516,3 +3521,4 @@ Sugan
 - [Ziad Samer] (https://github.com/zizoisprogramming)
 - [PRD] (https://github.com/Pravata-dash/)
 - [Taha Ar](https://github.com/tahaAr691)
+- [Taha Ar](https://github.com/tahaAr691)n
